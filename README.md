@@ -1,4 +1,4 @@
-### olá eu sou o rafael siva 
+### olá eu sou o rafael silva 
 - 🌱 I’m currently learning php
 - 👯 I’m looking to collaborate on <front-end/>
 - 🤔 I’m looking for help with python
